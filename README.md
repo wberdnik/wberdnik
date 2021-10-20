@@ -8,4 +8,4 @@ languages: ABAP(SAP), C#, Haskell.
 - 👀 I’m interested in Linux and DevOps, Artificial intelligence, Highly loaded and cloud-based systems
 - 📫 How to reach me: <wberdnik@gmail.com>
 
-#I must admit that this repository does not contain commercially valuable code. These are just small fragments from real projects. We are using Bitbucket repository at real projects.
+- !!! I must admit that this repository does not contain commercially valuable code. These are just small fragments from real projects. We are using Bitbucket repository at real projects.
