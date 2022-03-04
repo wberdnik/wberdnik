@@ -1,2 +1,2 @@
 
-- !!! It sure that this repository does not contain commercially valuable code. These are just small fragments from real projects. 
+- !!! Tbh this repository does not contain commercially valuable code. These are just small fragments from real projects. 
