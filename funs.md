@@ -1,4 +1,4 @@
-## I joke about it, but deep down, I have this expertise
+## I joke about it, but  I have this expertise
 
 ### Program language experience
 ||Language|Rate|Affirmation|
@@ -13,11 +13,11 @@
 |8| Python| Since 2017| Backend project to Asterisk AMI. A variety of auxiliary programs|
 |9| Ruby| Scripts| Scripting of Puppet|
 |10| C#| Project maintenance| Universal compiler Project|
-|11| 1C 7.7| From 1998 to 2010| Semantic comparison system for product names|
+|11| 1C 7.7| From 1998 to 2010| programming in an Oil Company, then creating a Semantic comparison system for product names|
 |12| 1C 8.*| Certificate of Specialist| Worked for several 1C franchisee companies from 2011 to 2015|
 |13| Bash| Since 2016| Linux scripting|
 |14| Asterisk Dialplane| From 2017 to 2019| PBX on computer cluster|
 |15| VBA| Since 2003| A variety of auxiliary programs|
 |16| Pascal| Early Delphi projects||
-|17| Foxpro & Clipper| Early projects||
+|17| Foxpro & Clipper| Early projects| An Oil Company|
 |18| Assembler|  All time||
