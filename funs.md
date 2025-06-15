@@ -1,23 +1,23 @@
 ## I joke about it, but  I have this expertise
 
 ### Program language experience
-||Language|Rate|Affirmation|
+|#|Language|Experience Level & Duration|Key Projects & Affirmations|
 |:-:|:-|:-|:-|
-|1| Go| Since 2019. Senior title| A few years in the inter-nationals. [Small occasional service projects](https://github.com/wberdnik?tab=repositories&language=go)|
-|2| C&C++| All time| The RGK project. A variety of auxiliary programs|
-|3| JS&TS| Since 2016| React JS, VueJS, a little bit Node.js and Angular|
-|4| Rust| Prometheus agent, WebAssembly frontend project|
-|5| PHP| Since 2009| Laravel, Yii2, some expirience of Symphony|
-|6| Java| In 2017| a Android application|
-|7| Groovy| Scripts| Pipelines of Jenkins|
-|8| Python| Since 2017| Backend project to Asterisk AMI. A variety of auxiliary programs|
-|9| Ruby| Scripts| Scripting of Puppet|
-|10| C#| Project maintenance| Universal compiler Project|
-|11| 1C 7.7| From 1998 to 2010| programming in an Oil Company, then creating a Semantic comparison system for product names|
-|12| 1C 8.*| Certificate of Specialist| Worked for several 1C franchisee companies from 2011 to 2015|
-|13| Bash| Since 2016| Linux scripting|
-|14| Asterisk Dialplane| From 2017 to 2019| PBX on computer cluster|
-|15| VBA| Since 2003| A variety of auxiliary programs|
-|16| Pascal| Early Delphi projects||
-|17| Foxpro & Clipper| Early projects| An Oil Company|
-|18| Assembler|  All time||
+|1| Go (Golang)| Senior-level since 2019| AInternational projects; [small service applications.](https://github.com/wberdnik?tab=repositories&language=go)|
+|2| C/C++| Proficient (all-time)| RGK project; various auxiliary tools.|
+|3| JavaScript/TypeScript| Experienced since 2016| React.js, Vue.js, Node.js, and Angular.|
+|4| Rust| Intermediate| [Prometheus agent](https://github.com/wberdnik/Prometheus_agent_one_thead_server); WebAssembly frontend project.|
+|5| PHP| Expert since 2009| Laravel; Yii2; Symphony.|
+|6| Java| Project-based (2017)| Android application development.|
+|7| Groovy| Scripting| Jenkins pipeline automation.|
+|8| Python| Proficient since 2017| [Backend for Asterisk AMI](https://github.com/wberdnik/Middleware_pbx_asterisk_via_ami_python3); utility scripts.|
+|9| Ruby| Scripting| Puppet automation scripts.|
+|10| C#| Maintenance & Development| Universal compiler project.|
+|11| 1C 7.7| 1998–2010| Oil company systems; semantic product comparison.|
+|12| 1C 8.*| Certified Specialist (2011–2015)| Worked with 1C franchise partners.|
+|13| Bash| Scripting since 2016| Linux automation and CLI tools.|
+|14| Asterisk Dialplane| 2017–2019| PBX on computer cluster|
+|15| VBA| Experienced since 2003| Office automation and macros.|
+|16| Pascal/Delphi| Early career|Legacy Delphi projects.|
+|17| Foxpro & Clipper| Early career| Oil company systems.|
+|18| Assembly|  All-time foundational knowledge| Low-level programming.|
