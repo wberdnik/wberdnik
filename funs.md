@@ -1,4 +1,4 @@
-## I joke about it, but  I have this expertise
+## I'm joking about this, but I actually have all this experience.
 
 ### Program language experience
 |#| Language|Experience Level & Duration| Key Projects & Affirmations|
@@ -41,6 +41,6 @@
 |14| Peripheral devices| Communication protocols;laser and inkjet office equipment;hard drives;displays;etc.|
 |15| System analysis| Features of systems; principles of the system approach; modeling; decomposition of subsystems; etc.|
 |16| Interfaces of embedded systems| CAN, SPI, and I2C buses, etc.|
-|17| Designing user interfaces| Design and user attention management|
-|18| Mobile and embedded operating systems| Application development for iPhone and Android|
+|17| Designing user interfaces| Design and user attention management.|
+|18| Mobile and embedded operating systems| Application development for iPhone and Android.|
 
